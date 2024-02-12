@@ -27,9 +27,11 @@ app.use(express.static("public"))
 app.use(cookieParser())
 
 // ROUTES
+import router from "../Routes/auth.routes.js"
 /**
  * TODO: import routes and add them here
  */
+app.use("/auth", router)
 
 
 

@@ -1,11 +1,11 @@
 # MERNify
 
-##### A simple ecommerce project to practice different functionalities to a React application using the MERN stack.
+##### A simple ecommerce project to practice different functionalities in a React application using the MERN stack.
 
 ## Tech stacks:
 
 - React.js (Frontend)
-- React Router v5 for routing
+- React Router v6 for routing
 - Mongo DB
 - Tailwind CSS
 - Express js
@@ -27,9 +27,9 @@
 ## Getting Started
 
 1. Clone the repository using `git clone https://github.com/mernify/mernify.git`
-2. Run `npm install` to install all the dependencies
+2. Run `npm update-all` to install all the dependencies
 3. Run `npm start` to start the application
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. Open [http://localhost:5173](http://localhost:5173) to run the frontend in the browser.
 
 ## Contributing
 
